@@ -1,0 +1,26 @@
+name: sos_numbers
+description: "Emergency numbers for wherever you are, offline."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.13.3
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+# No third-party plugins on purpose: telephony, GPS, the dialer intent and
+# preferences all go through a single MethodChannel implemented in MainActivity.kt.
+# That keeps the app fully offline, dependency-free and immune to plugin/AGP drift.
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/data/emergency_numbers.json
+    - assets/geo/country_borders.json

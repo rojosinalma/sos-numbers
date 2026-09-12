@@ -1,0 +1,2194 @@
+{
+ "countries": {
+  "AD": {
+   "ambulance": "116",
+   "fire": "118",
+   "general": null,
+   "iso": "AD",
+   "name": "Andorra",
+   "notes": "112 – Mountain / Sky Rescue collaboration with Spanish (Catalan) and French authorities",
+   "police": "110"
+  },
+  "AE": {
+   "ambulance": "998",
+   "fire": "997",
+   "general": "999",
+   "iso": "AE",
+   "name": "United Arab Emirates",
+   "notes": "Coast guard – 996; Non-emergency police – 901; Water failure – 922; Electricity failure – 991",
+   "police": "999"
+  },
+  "AF": {
+   "ambulance": "112",
+   "fire": "119",
+   "general": null,
+   "iso": "AF",
+   "name": "Afghanistan",
+   "notes": "",
+   "police": "119"
+  },
+  "AG": {
+   "ambulance": "911",
+   "fire": "911",
+   "general": "911",
+   "iso": "AG",
+   "name": "Antigua and Barbuda",
+   "notes": "All services alternate: 999.",
+   "police": "911"
+  },
+  "AI": {
+   "ambulance": "911",
+   "fire": "911",
+   "general": "911",
+   "iso": "AI",
+   "name": "Anguilla",
+   "notes": "",
+   "police": "911"
+  },
+  "AL": {
+   "ambulance": "127",
+   "fire": "128",
+   "general": "112",
+   "iso": "AL",
+   "name": "Albania",
+   "notes": "Traffic police – 126; Emergency at sea – 125. Mobile phones ambulance – 112",
+   "police": "129"
+  },
+  "AM": {
+   "ambulance": "112",
+   "fire": "112",
+   "general": "112",
+   "iso": "AM",
+   "name": "Armenia",
+   "notes": "All services alternate: 911. Police – 102; Ambulance – 103; Fire – 101; Gas emergency – 104; Traffic police – 177; Search & rescue – 108.",
+   "police": "112"
+  },
+  "AO": {
+   "ambulance": "112",
+   "fire": "115",
+   "general": null,
+   "iso": "AO",
+   "name": "Angola",
+   "notes": "Ambulance alternate: 116.",
+   "police": "113"
+  },
+  "AQ": {
+   "ambulance": "911",
+   "fire": "911",
+   "general": "911",
+   "iso": "AQ",
+   "name": "Antarctica",
+   "notes": "",
+   "police": "911"
+  },
+  "AR": {
+   "ambulance": "107",
+   "fire": "100",
+   "general": "911",
+   "iso": "AR",
+   "name": "Argentina",
+   "notes": "Police – 101; Ambulance – 107; Fire – 100; Civil defense – 103; Forest fire – 105; Coast guard – 106. 112 redirects to 911 on mobile phones.",
+   "police": "101"
+  },
+  "AS": {
+   "ambulance": "911",
+   "fire": "911",
+   "general": "911",
+   "iso": "AS",
+   "name": "American Samoa",
+   "notes": "",
+   "police": "911"
+  },
+  "AT": {
+   "ambulance": "144",
+   "fire": "122",
+   "general": "112",
+   "iso": "AT",
+   "name": "Austria",
+   "notes": "Police alternate: 133. Gas emergency – 128; Mountain rescue – 140; Doctors – 141; Crisis hotline – 142; Support for children and teens – 147; Non-emergency police – 059 133; Deaf fax/SMS – 0800 133 133...",
+   "police": "112"
+  },
+  "AU": {
+   "ambulance": "000",
+   "fire": "000",
+   "general": "000",
+   "iso": "AU",
+   "name": "Australia",
+   "notes": "Mobile phones – 112 or 000; State Emergency Service – 132 500; National relay service – 106; Non-emergency police – 131 444 (NSW, QLD, VIC, SA, WA, NT, TAS & ACT); Crime Stoppers – 1800 333 000; Threats to national security – 1800 123 400...",
+   "police": "000"
+  },
+  "AW": {
+   "ambulance": "911",
+   "fire": "911",
+   "general": "911",
+   "iso": "AW",
+   "name": "Aruba",
+   "notes": "",
+   "police": "911"
+  },
+  "AX": {
+   "ambulance": "112",
+   "fire": "112",
+   "general": "112",
+   "iso": "AX",
+   "name": "Åland Islands",
+   "notes": "Non-emergency police – 018 527 100; Poison control – 09 471 977.",
+   "police": "112"
+  },
+  "AZ": {
+   "ambulance": "112",
+   "fire": "112",
+   "general": "112",
+   "iso": "AZ",
+   "name": "Azerbaijan",
+   "notes": "Police alternate: 102. Ambulance alternate: 103. Fire alternate: 101. Gas Service – 104; Traffic police – 902; Electricity emergency – 199; Emergency – 112.",
+   "police": "112"
+  },
+  "BA": {
+   "ambulance": "124",
+   "fire": "123",
+   "general": null,
+   "iso": "BA",
+   "name": "Bosnia and Herzegovina",
+   "notes": "Civil protection – 121.",
+   "police": "122"
+  },
+  "BB": {
+   "ambulance": "511",
+   "fire": "311",
+   "general": null,
+   "iso": "BB",
+   "name": "Barbados",
+   "notes": "",
+   "police": "211"
+  },
+  "BD": {
+   "ambulance": "999",
+   "fire": "999",
+   "general": "999",
+   "iso": "BD",
+   "name": "Bangladesh",
+   "notes": "Anti Corruption Commission – 106, Agricultural Information Services – 16123, Health Services – 16263, Dhaka WASA – 16162, Women and Children Ministry – 109, Legal Services – 16430, National Information Service — 333...",
+   "police": "999"
+  },
+  "BE": {
+   "ambulance": "112",
+   "fire": "112",
+   "general": "112",
+   "iso": "BE",
+   "name": "Belgium",
+   "notes": "Police alternate: 112. Non-emergency number for the fire department – 1722.",
+   "police": "101"
+  },
+  "BF": {
+   "ambulance": "112",
+   "fire": "18",
+   "general": null,
+   "iso": "BF",
+   "name": "Burkina Faso",
+   "notes": "",
+   "police": "17"
+  },
+  "BG": {
+   "ambulance": "112",
+   "fire": "112",
+   "general": "112",
+   "iso": "BG",
+   "name": "Bulgaria",
+   "notes": "Police alternate: 166. Ambulance alternate: 150. Fire alternate: 160.",
+   "police": "112"
+  },
+  "BH": {
+   "ambulance": "999",
+   "fire": "999",
+   "general": "999",
+   "iso": "BH",
+   "name": "Bahrain",
+   "notes": "Mobile phones – 112, Traffic police – 199, Coast Guard – 994.",
+   "police": "999"
+  },
+  "BI": {
+   "ambulance": "112",
+   "fire": "118",
+   "general": null,
+   "iso": "BI",
+   "name": "Burundi",
+   "notes": "",
+   "police": "117"
+  },
+  "BJ": {
+   "ambulance": "112",
+   "fire": "118",
+   "general": null,
+   "iso": "BJ",
+   "name": "Benin",
+   "notes": "",
+   "police": "117"
+  },
+  "BL": {
+   "ambulance": "17",
+   "fire": "18",
+   "general": null,
+   "iso": "BL",
+   "name": "Saint Barthélemy",
+   "notes": "",
+   "police": "17"
+  },
+  "BM": {
+   "ambulance": "911",
+   "fire": "911",
+   "general": "911",
+   "iso": "BM",
+   "name": "Bermuda",
+   "notes": "",
+   "police": "911"
+  },
+  "BN": {
+   "ambulance": "991",
+   "fire": "995",
+   "general": null,
+   "iso": "BN",
+   "name": "Brunei",
+   "notes": "Search and Rescue – 998",
+   "police": "993"
+  },
+  "BO": {
+   "ambulance": "911",
+   "fire": "911",
+   "general": "911",
+   "iso": "BO",
+   "name": "Bolivia",
+   "notes": "Police – 110; Ambulance – 118; Fire – 119; Civil protection – 114; National police – 120.",
+   "police": "911"
+  },
+  "BQ": {
+   "ambulance": "911",
+   "fire": "911",
+   "general": "911",
+   "iso": "BQ",
+   "name": "Caribbean Netherlands",
+   "notes": "",
+   "police": "911"
+  },
+  "BR": {
+   "ambulance": "192",
+   "fire": "193",
+   "general": null,
+   "iso": "BR",
+   "name": "Brazil",
+   "notes": "Federal highway police – 191; Federal police – 194; Civil police – 197; State highway police – 198; Civil defense – 199; Municipal guard – 153; Human rights – 100; Emergency in Mercosul area – 128....",
+   "police": "190"
+  },
+  "BS": {
+   "ambulance": "911",
+   "fire": "911",
+   "general": "911",
+   "iso": "BS",
+   "name": "Bahamas",
+   "notes": "All services alternate: 919. Mobile phones – 112.",
+   "police": "911"
+  },
+  "BT": {
+   "ambulance": "112",
+   "fire": "110",
+   "general": null,
+   "iso": "BT",
+   "name": "Bhutan",
+   "notes": "",
+   "police": "113"
+  },
+  "BW": {
+   "ambulance": "997",
+   "fire": "998",
+   "general": "112",
+   "iso": "BW",
+   "name": "Botswana",
+   "notes": "Mobile phones – 112.",
+   "police": "999"
+  },
+  "BY": {
+   "ambulance": "103",
+   "fire": "101",
+   "general": null,
+   "iso": "BY",
+   "name": "Belarus",
+   "notes": "Gas emergency – 104.",
+   "police": "102"
+  },
+  "BZ": {
+   "ambulance": "911",
+   "fire": "911",
+   "general": "911",
+   "iso": "BZ",
+   "name": "Belize",
+   "notes": "",
+   "police": "911"
+  },
+  "CA": {
+   "ambulance": "911",
+   "fire": "911",
+   "general": "911",
+   "iso": "CA",
+   "name": "Canada",
+   "notes": "Suicide hotline – 988; Nonemergency social services - 211. Municipal services – 311 (metros only). 112 may redirect to 911 on certain mobile phones.",
+   "police": "911"
+  },
+  "CC": {
+   "ambulance": "000",
+   "fire": "000",
+   "general": "000",
+   "iso": "CC",
+   "name": "Cocos (Keeling) Islands",
+   "notes": "",
+   "police": "000"
+  },
+  "CD": {
+   "ambulance": null,
+   "fire": "118",
+   "general": null,
+   "iso": "CD",
+   "name": "Democratic Republic of the Congo",
+   "notes": "",
+   "police": "112"
+  },
+  "CF": {
+   "ambulance": "1220",
+   "fire": "118",
+   "general": null,
+   "iso": "CF",
+   "name": "Central African Republic",
+   "notes": "",
+   "police": "117"
+  },
+  "CG": {
+   "ambulance": null,
+   "fire": "118",
+   "general": null,
+   "iso": "CG",
+   "name": "Republic of the Congo",
+   "notes": "",
+   "police": "117"
+  },
+  "CH": {
+   "ambulance": "144",
+   "fire": "118",
+   "general": "112",
+   "iso": "CH",
+   "name": "Switzerland",
+   "notes": "Poison control – 145; Road help – 0800 140 140; Psychological support – 143; Psychological support for teens and children – 147; Rega air rescue – 1414 or by radio on; Air-Glaciers air-rescue (Valais only) – 1415....",
+   "police": "117"
+  },
+  "CI": {
+   "ambulance": "185",
+   "fire": "180",
+   "general": null,
+   "iso": "CI",
+   "name": "Côte d'Ivoire",
+   "notes": "Police alternate: 111, 170.",
+   "police": "110"
+  },
+  "CK": {
+   "ambulance": "999",
+   "fire": "999",
+   "general": "999",
+   "iso": "CK",
+   "name": "Cook Islands",
+   "notes": "",
+   "police": "999"
+  },
+  "CL": {
+   "ambulance": "131",
+   "fire": "132",
+   "general": null,
+   "iso": "CL",
+   "name": "Chile",
+   "notes": "Useful mnemonic is ABC123: Ambulancia (Ambulance) – 131, Bomberos (Fire) – 132, Carabineros (Police) – 133. 911 and 112 redirect to 133.",
+   "police": "133"
+  },
+  "CM": {
+   "ambulance": "112",
+   "fire": "112",
+   "general": "112",
+   "iso": "CM",
+   "name": "Cameroon",
+   "notes": "Police – 117; Ambulance – 119; Fire – 118; Electricity emergency – 8010.",
+   "police": "112"
+  },
+  "CN": {
+   "ambulance": "120",
+   "fire": "119",
+   "general": null,
+   "iso": "CN",
+   "name": "China",
+   "notes": "Traffic accident reports – 122; Coast guard – 95110",
+   "police": "110"
+  },
+  "CO": {
+   "ambulance": "125",
+   "fire": "119",
+   "general": "123",
+   "iso": "CO",
+   "name": "Colombia",
+   "notes": "General emergency - 123; Anti-kidnapping and extortion hotline – 165.",
+   "police": "112"
+  },
+  "CR": {
+   "ambulance": "911",
+   "fire": "911",
+   "general": "911",
+   "iso": "CR",
+   "name": "Costa Rica",
+   "notes": "Mobile phones – 112.",
+   "police": "911"
+  },
+  "CU": {
+   "ambulance": "104",
+   "fire": "105",
+   "general": null,
+   "iso": "CU",
+   "name": "Cuba",
+   "notes": "",
+   "police": "106"
+  },
+  "CV": {
+   "ambulance": "130",
+   "fire": "131",
+   "general": null,
+   "iso": "CV",
+   "name": "Cape Verde",
+   "notes": "",
+   "police": "132"
+  },
+  "CW": {
+   "ambulance": "910",
+   "fire": "911",
+   "general": "911",
+   "iso": "CW",
+   "name": "Curaçao",
+   "notes": "Ambulance alternate: 912. Calls to 112 forward to 911. Please consult the current list for Emergency Services",
+   "police": "911"
+  },
+  "CX": {
+   "ambulance": "000",
+   "fire": "000",
+   "general": "000",
+   "iso": "CX",
+   "name": "Christmas Island",
+   "notes": "",
+   "police": "000"
+  },
+  "CY": {
+   "ambulance": "112",
+   "fire": "112",
+   "general": "112",
+   "iso": "CY",
+   "name": "Cyprus",
+   "notes": "All services alternate: 199. Air/sea rescue – 1441; Anti-drug support – 1410 or 1498; Poison control – 1401.",
+   "police": "112"
+  },
+  "CZ": {
+   "ambulance": "112",
+   "fire": "112",
+   "general": "112",
+   "iso": "CZ",
+   "name": "Czechia",
+   "notes": "Police alternate: 158. Ambulance alternate: 155. Fire alternate: 150. Municipal police – 156; Mountain rescue – 1210.",
+   "police": "112"
+  },
+  "DE": {
+   "ambulance": "112",
+   "fire": "112",
+   "general": "112",
+   "iso": "DE",
+   "name": "Germany",
+   "notes": "Traditionally 110 for the police and 112 for the fire brigade and rescue service. Due to EU Directive 112 works also for the police; 911 redirects to 112 on telephones used in USAFE bases. Rescue service additionally (outdating) 19222....",
+   "police": "110"
+  },
+  "DJ": {
+   "ambulance": "19",
+   "fire": "18",
+   "general": null,
+   "iso": "DJ",
+   "name": "Djibouti",
+   "notes": "",
+   "police": "17"
+  },
+  "DK": {
+   "ambulance": "112",
+   "fire": "112",
+   "general": "112",
+   "iso": "DK",
+   "name": "Denmark",
+   "notes": "Non-emergency police – 114.",
+   "police": "112"
+  },
+  "DM": {
+   "ambulance": "999",
+   "fire": "999",
+   "general": "999",
+   "iso": "DM",
+   "name": "Dominica",
+   "notes": "",
+   "police": "999"
+  },
+  "DO": {
+   "ambulance": "911",
+   "fire": "911",
+   "general": "911",
+   "iso": "DO",
+   "name": "Dominican Republic",
+   "notes": "112 redirects to 911 on mobile phones.",
+   "police": "911"
+  },
+  "DZ": {
+   "ambulance": "14",
+   "fire": "14",
+   "general": null,
+   "iso": "DZ",
+   "name": "Algeria",
+   "notes": "Gendarme – 1055",
+   "police": "1548"
+  },
+  "EC": {
+   "ambulance": "911",
+   "fire": "911",
+   "general": "911",
+   "iso": "EC",
+   "name": "Ecuador",
+   "notes": "Police – 101; Ambulance – 131; Fire – 102; Emergency in Guayaquil – 112; Traffic police in Guayaquil – 103.",
+   "police": "911"
+  },
+  "EE": {
+   "ambulance": "112",
+   "fire": "112",
+   "general": "112",
+   "iso": "EE",
+   "name": "Estonia",
+   "notes": "",
+   "police": "112"
+  },
+  "EG": {
+   "ambulance": "123",
+   "fire": "180",
+   "general": "112",
+   "iso": "EG",
+   "name": "Egypt",
+   "notes": "Police alternate: 122. Tourist police – 126; Traffic police – 128; Electricity emergency – 121; Gas emergency – 129; Mobile phones – 112.",
+   "police": "122"
+  },
+  "EH": {
+   "ambulance": "150",
+   "fire": "150",
+   "general": "150",
+   "iso": "EH",
+   "name": "Western Sahara",
+   "notes": "",
+   "police": "150"
+  },
+  "ER": {
+   "ambulance": "114",
+   "fire": "116",
+   "general": "112",
+   "iso": "ER",
+   "name": "Eritrea",
+   "notes": "Emergency call – 112; Traffic police – 115.",
+   "police": "113"
+  },
+  "ES": {
+   "ambulance": "112",
+   "fire": "112",
+   "general": "112",
+   "iso": "ES",
+   "name": "Spain",
+   "notes": "Police: National Police – 091; Civil Guard – 062; Autonomic Police – 112; Municipal Police – 092.; Fire: Local Firefighters – 080; Autonomic Firefighters – 085.; Ambulance: SAMUR – 061....",
+   "police": "112"
+  },
+  "ET": {
+   "ambulance": "911",
+   "fire": "911",
+   "general": "991",
+   "iso": "ET",
+   "name": "Ethiopia",
+   "notes": "Police – 991; Ambulance – 907; Fire – 939; Traffic police – 945.",
+   "police": "911"
+  },
+  "FI": {
+   "ambulance": "112",
+   "fire": "112",
+   "general": "112",
+   "iso": "FI",
+   "name": "Finland",
+   "notes": "+358 9 2297 0908 from abroad; Maritime rescue – 02 94 1000; Poison Control – 0800 147 111; Medical Helpline – 116 117 (except in Åland); Report lost or stolen credit card – 020 333 (for most Finnish banks)",
+   "police": "112"
+  },
+  "FJ": {
+   "ambulance": "911",
+   "fire": "911",
+   "general": "911",
+   "iso": "FJ",
+   "name": "Fiji",
+   "notes": "Police – 917; Fire – 910; Crime Stoppers – 919.",
+   "police": "911"
+  },
+  "FK": {
+   "ambulance": "112",
+   "fire": "112",
+   "general": "112",
+   "iso": "FK",
+   "name": "Falkland Islands",
+   "notes": "All services alternate: 999.",
+   "police": "112"
+  },
+  "FM": {
+   "ambulance": "911",
+   "fire": "911",
+   "general": "911",
+   "iso": "FM",
+   "name": "Micronesia",
+   "notes": "",
+   "police": "911"
+  },
+  "FO": {
+   "ambulance": "112",
+   "fire": "112",
+   "general": "112",
+   "iso": "FO",
+   "name": "Faroe Islands",
+   "notes": "Non-emergency police – 114.",
+   "police": "112"
+  },
+  "FR": {
+   "ambulance": "15",
+   "fire": "18",
+   "general": "112",
+   "iso": "FR",
+   "name": "France",
+   "notes": "Police alternate: 17. Ambulance alternate: 15. Fire alternate: 18. Deaf FAX/SMS – 114; Hotline for beaten children – 119; Missing children – 116 000; Maritime rescue – 196....",
+   "police": "17"
+  },
+  "GA": {
+   "ambulance": "1300",
+   "fire": "18",
+   "general": null,
+   "iso": "GA",
+   "name": "Gabon",
+   "notes": "",
+   "police": "1730"
+  },
+  "GB": {
+   "ambulance": "999",
+   "fire": "999",
+   "general": "999",
+   "iso": "GB",
+   "name": "United Kingdom",
+   "notes": "All services alternate: 112. Non-emergency police – 101; Power outages – 105; Non-emergency health issues – 111; COVID-19 testing helpline – 119; gas leaks – 0800 111 999....",
+   "police": "999"
+  },
+  "GD": {
+   "ambulance": "911",
+   "fire": "911",
+   "general": "911",
+   "iso": "GD",
+   "name": "Grenada",
+   "notes": "",
+   "police": "911"
+  },
+  "GE": {
+   "ambulance": "112",
+   "fire": "112",
+   "general": "112",
+   "iso": "GE",
+   "name": "Georgia",
+   "notes": "",
+   "police": "112"
+  },
+  "GF": {
+   "ambulance": "112",
+   "fire": "112",
+   "general": "112",
+   "iso": "GF",
+   "name": "French Guiana",
+   "notes": "Police – 17; Ambulance – 15; Fire – 18.",
+   "police": "112"
+  },
+  "GG": {
+   "ambulance": "112",
+   "fire": "112",
+   "general": "112",
+   "iso": "GG",
+   "name": "Guernsey",
+   "notes": "All services alternate: 999.",
+   "police": "112"
+  },
+  "GH": {
+   "ambulance": "112",
+   "fire": "112",
+   "general": "112",
+   "iso": "GH",
+   "name": "Ghana",
+   "notes": "Police – 191; Ambulance – 193; Fire – 192.",
+   "police": "112"
+  },
+  "GI": {
+   "ambulance": "190",
+   "fire": "190",
+   "general": null,
+   "iso": "GI",
+   "name": "Gibraltar",
+   "notes": "Police alternate: 112, 999. Ambulance/Fire alternate: 112, 999.",
+   "police": "199"
+  },
+  "GL": {
+   "ambulance": "112",
+   "fire": "112",
+   "general": "112",
+   "iso": "GL",
+   "name": "Greenland",
+   "notes": "Mobile phones only. From landline phones dial the local police station, hospital or fire brigade.",
+   "police": "112"
+  },
+  "GM": {
+   "ambulance": "116",
+   "fire": "118",
+   "general": null,
+   "iso": "GM",
+   "name": "Gambia",
+   "notes": "Police – 112; Electricity emergency – 124; Water emergency – 125.",
+   "police": "117"
+  },
+  "GN": {
+   "ambulance": "18",
+   "fire": "442020",
+   "general": null,
+   "iso": "GN",
+   "name": "Guinea",
+   "notes": "Maritime Emergency Service – 19; Gendarmerie – 118; National Gendarmerie – 122",
+   "police": "117"
+  },
+  "GP": {
+   "ambulance": "112",
+   "fire": "112",
+   "general": "112",
+   "iso": "GP",
+   "name": "Guadeloupe",
+   "notes": "Police – 17; Ambulance – 15; Fire – 18.",
+   "police": "112"
+  },
+  "GQ": {
+   "ambulance": "115",
+   "fire": "112",
+   "general": null,
+   "iso": "GQ",
+   "name": "Equatorial Guinea",
+   "notes": "Traffic police – 116.",
+   "police": "114"
+  },
+  "GR": {
+   "ambulance": "166",
+   "fire": "199",
+   "general": "112",
+   "iso": "GR",
+   "name": "Greece",
+   "notes": "Police alternate: 112. Ambulance alternate: 112. Fire alternate: 112. European emergency service line – 112; Coast guard – 108; National Child Protection Helpline – 1056; European Hotline for Missing Children – 116000...",
+   "police": "100"
+  },
+  "GS": {
+   "ambulance": "999",
+   "fire": "999",
+   "general": "999",
+   "iso": "GS",
+   "name": "South Georgia and the South Sandwich Islands",
+   "notes": "",
+   "police": "999"
+  },
+  "GT": {
+   "ambulance": "122",
+   "fire": "122",
+   "general": null,
+   "iso": "GT",
+   "name": "Guatemala",
+   "notes": "Ambulance/Fire alternate: 123, 1554. Red Cross – 125 limited coverage; Conred – 119 Disaster relief (national).",
+   "police": "110"
+  },
+  "GU": {
+   "ambulance": "911",
+   "fire": "911",
+   "general": "911",
+   "iso": "GU",
+   "name": "Guam",
+   "notes": "",
+   "police": "911"
+  },
+  "GW": {
+   "ambulance": "112",
+   "fire": "112",
+   "general": "112",
+   "iso": "GW",
+   "name": "Guinea-Bissau",
+   "notes": "Police – 117; Ambulance – 119; Fire – 118.",
+   "police": "112"
+  },
+  "GY": {
+   "ambulance": "913",
+   "fire": "912",
+   "general": null,
+   "iso": "GY",
+   "name": "Guyana",
+   "notes": "Childcare Protection Agency – 227-0979; Human Trafficking – 227-4083, 623-5030; Domestic Violence – 914.",
+   "police": "911"
+  },
+  "HK": {
+   "ambulance": "999",
+   "fire": "999",
+   "general": "999",
+   "iso": "HK",
+   "name": "Hong Kong",
+   "notes": "Mobile phones – 911 or 112 (Automatically redirects to 999).",
+   "police": "999"
+  },
+  "HN": {
+   "ambulance": "195",
+   "fire": "198",
+   "general": null,
+   "iso": "HN",
+   "name": "Honduras",
+   "notes": "",
+   "police": "911"
+  },
+  "HR": {
+   "ambulance": "112",
+   "fire": "112",
+   "general": "112",
+   "iso": "HR",
+   "name": "Croatia",
+   "notes": "Police alternate: 192. Ambulance alternate: 194. Fire alternate: 193. Search and rescue at sea – 112 or 195; Road help – 1987.",
+   "police": "112"
+  },
+  "HT": {
+   "ambulance": "116",
+   "fire": "115",
+   "general": null,
+   "iso": "HT",
+   "name": "Haiti",
+   "notes": "Police – 122.",
+   "police": "114"
+  },
+  "HU": {
+   "ambulance": "112",
+   "fire": "112",
+   "general": "112",
+   "iso": "HU",
+   "name": "Hungary",
+   "notes": "Police alternate: 107. Ambulance alternate: 104. Fire alternate: 105. Water emergency – 1817.",
+   "police": "112"
+  },
+  "ID": {
+   "ambulance": "112",
+   "fire": "112",
+   "general": "112",
+   "iso": "ID",
+   "name": "Indonesia",
+   "notes": "Police – 110; Ambulance – 118 or 119; Fire – 113 or 1131; Search & rescue – 115; Natural disasters – 129; Electricity emergency – 123; Mental health – 1-500-454.",
+   "police": "112"
+  },
+  "IE": {
+   "ambulance": "112",
+   "fire": "112",
+   "general": "112",
+   "iso": "IE",
+   "name": "Ireland",
+   "notes": "All services alternate: 999. SMS messages can be sent to 112.",
+   "police": "112"
+  },
+  "IL": {
+   "ambulance": "101",
+   "fire": "102",
+   "general": "112",
+   "iso": "IL",
+   "name": "Israel",
+   "notes": "Israel Electric Corporation – 103; Home Front Command – 104; Online child abuse hotline – 105; Non-emergency municipal hazards – 106; Non-emergency police inquiries – 110; Mobile phones – 112.",
+   "police": "100"
+  },
+  "IM": {
+   "ambulance": "112",
+   "fire": "112",
+   "general": "112",
+   "iso": "IM",
+   "name": "Isle of Man",
+   "notes": "All services alternate: 999.",
+   "police": "112"
+  },
+  "IN": {
+   "ambulance": "112",
+   "fire": "112",
+   "general": "112",
+   "iso": "IN",
+   "name": "India",
+   "notes": "",
+   "police": "112"
+  },
+  "IO": {
+   "ambulance": "112",
+   "fire": "112",
+   "general": "112",
+   "iso": "IO",
+   "name": "British Indian Ocean Territory",
+   "notes": "All services alternate: 999.",
+   "police": "112"
+  },
+  "IQ": {
+   "ambulance": "112",
+   "fire": "112",
+   "general": "112",
+   "iso": "IQ",
+   "name": "Iraq",
+   "notes": "All services alternate: 911. Police – 104; Ambulance – 122; Fire – 115.",
+   "police": "112"
+  },
+  "IR": {
+   "ambulance": "115",
+   "fire": "125",
+   "general": "110",
+   "iso": "IR",
+   "name": "Iran",
+   "notes": "General emergencies is also 110. Social Emergency – 123; Roads Traffic Information Center – 141; Iranian Red Crescent – 112 (non-mobile phones). 112 and 911 redirect to 110 on mobile phones.",
+   "police": "110"
+  },
+  "IS": {
+   "ambulance": "112",
+   "fire": "112",
+   "general": "112",
+   "iso": "IS",
+   "name": "Iceland",
+   "notes": "Non-emergency police Reykjavík area – 444 10 00; 911 redirects to 112 on mobile phones; +354 570 2112 from abroad.",
+   "police": "112"
+  },
+  "IT": {
+   "ambulance": "112",
+   "fire": "112",
+   "general": "112",
+   "iso": "IT",
+   "name": "Italy",
+   "notes": "The 112 was originally the national emergency number of the Carabinieri; it is now the European single emergency number; NUE 112 is operational throughout Italy (except Veneto and Campania)....",
+   "police": "112"
+  },
+  "JE": {
+   "ambulance": "112",
+   "fire": "112",
+   "general": "112",
+   "iso": "JE",
+   "name": "Jersey",
+   "notes": "All services alternate: 999.",
+   "police": "112"
+  },
+  "JM": {
+   "ambulance": "110",
+   "fire": "110",
+   "general": null,
+   "iso": "JM",
+   "name": "Jamaica",
+   "notes": "",
+   "police": "119"
+  },
+  "JO": {
+   "ambulance": "911",
+   "fire": "911",
+   "general": "911",
+   "iso": "JO",
+   "name": "Jordan",
+   "notes": "Mobile phones – 112.",
+   "police": "911"
+  },
+  "JP": {
+   "ambulance": "119",
+   "fire": "119",
+   "general": null,
+   "iso": "JP",
+   "name": "Japan",
+   "notes": "Coast guard – 118; Information about emergencies – #7119 free call; Information about emergencies – #9110 pay call; Roadside assistance – #8139....",
+   "police": "110"
+  },
+  "KE": {
+   "ambulance": "112",
+   "fire": "112",
+   "general": "999",
+   "iso": "KE",
+   "name": "Kenya",
+   "notes": "All services alternate: 999, 911.",
+   "police": "112"
+  },
+  "KG": {
+   "ambulance": "112",
+   "fire": "112",
+   "general": "112",
+   "iso": "KG",
+   "name": "Kyrgyzstan",
+   "notes": "",
+   "police": "112"
+  },
+  "KH": {
+   "ambulance": "119",
+   "fire": "118",
+   "general": null,
+   "iso": "KH",
+   "name": "Cambodia",
+   "notes": "Child helpline – 1280",
+   "police": "117"
+  },
+  "KI": {
+   "ambulance": "100",
+   "fire": "100",
+   "general": "100",
+   "iso": "KI",
+   "name": "Kiribati",
+   "notes": "All services alternate: 999. Police – 192; Ambulance – 194 and 195; Fire – 193.",
+   "police": "100"
+  },
+  "KM": {
+   "ambulance": "7720373",
+   "fire": "18",
+   "general": null,
+   "iso": "KM",
+   "name": "Comoros",
+   "notes": "Ambulance – 773-26-04.",
+   "police": "17"
+  },
+  "KN": {
+   "ambulance": "911",
+   "fire": "911",
+   "general": "911",
+   "iso": "KN",
+   "name": "Saint Kitts and Nevis",
+   "notes": "",
+   "police": "911"
+  },
+  "KP": {
+   "ambulance": null,
+   "fire": "110",
+   "general": null,
+   "iso": "KP",
+   "name": "North Korea",
+   "notes": "Police/Ambulance: local numbers only. Fire alternate: 8119.",
+   "police": null
+  },
+  "KR": {
+   "ambulance": "119",
+   "fire": "119",
+   "general": null,
+   "iso": "KR",
+   "name": "South Korea",
+   "notes": "Non Emergency – 110; National security – 111; Reporting spies – 113; Narcotics Report – 127; Lost and Found Center – 182; Travel Hotline – 1330.",
+   "police": "112"
+  },
+  "KW": {
+   "ambulance": "112",
+   "fire": "112",
+   "general": "112",
+   "iso": "KW",
+   "name": "Kuwait",
+   "notes": "",
+   "police": "112"
+  },
+  "KY": {
+   "ambulance": "911",
+   "fire": "911",
+   "general": "911",
+   "iso": "KY",
+   "name": "Cayman Islands",
+   "notes": "",
+   "police": "911"
+  },
+  "KZ": {
+   "ambulance": "112",
+   "fire": "112",
+   "general": "112",
+   "iso": "KZ",
+   "name": "Kazakhstan",
+   "notes": "Police – 102; Ambulance – 103; Fire – 101; Gas leaks – 104.",
+   "police": "112"
+  },
+  "LA": {
+   "ambulance": "195",
+   "fire": "190",
+   "general": null,
+   "iso": "LA",
+   "name": "Laos",
+   "notes": "",
+   "police": "191"
+  },
+  "LB": {
+   "ambulance": "140",
+   "fire": "175",
+   "general": null,
+   "iso": "LB",
+   "name": "Lebanon",
+   "notes": "Police alternate: 112. Police – 160; Civil defense – 125.",
+   "police": "999"
+  },
+  "LC": {
+   "ambulance": "911",
+   "fire": "911",
+   "general": "911",
+   "iso": "LC",
+   "name": "Saint Lucia",
+   "notes": "All services alternate: 999.",
+   "police": "911"
+  },
+  "LI": {
+   "ambulance": "144",
+   "fire": "118",
+   "general": null,
+   "iso": "LI",
+   "name": "Liechtenstein",
+   "notes": "",
+   "police": "117"
+  },
+  "LK": {
+   "ambulance": "110",
+   "fire": "110",
+   "general": "119",
+   "iso": "LK",
+   "name": "Sri Lanka",
+   "notes": "Traffic police – 112 691 111.",
+   "police": "119"
+  },
+  "LR": {
+   "ambulance": "911",
+   "fire": "911",
+   "general": "911",
+   "iso": "LR",
+   "name": "Liberia",
+   "notes": "",
+   "police": "911"
+  },
+  "LS": {
+   "ambulance": "121",
+   "fire": "122",
+   "general": null,
+   "iso": "LS",
+   "name": "Lesotho",
+   "notes": "",
+   "police": "123"
+  },
+  "LT": {
+   "ambulance": "112",
+   "fire": "112",
+   "general": "112",
+   "iso": "LT",
+   "name": "Lithuania",
+   "notes": "Police – 022; Ambulance – 033; Fire – 011.",
+   "police": "112"
+  },
+  "LU": {
+   "ambulance": "112",
+   "fire": "112",
+   "general": "112",
+   "iso": "LU",
+   "name": "Luxembourg",
+   "notes": "Police – 113.",
+   "police": "112"
+  },
+  "LV": {
+   "ambulance": "112",
+   "fire": "112",
+   "general": "112",
+   "iso": "LV",
+   "name": "Latvia",
+   "notes": "Police – 110; Ambulance – 113; Gas emergency – 114.",
+   "police": "112"
+  },
+  "LY": {
+   "ambulance": "1515",
+   "fire": "1515",
+   "general": "1515",
+   "iso": "LY",
+   "name": "Libya",
+   "notes": "Ambulance – 193.",
+   "police": "1515"
+  },
+  "MA": {
+   "ambulance": "15",
+   "fire": "15",
+   "general": "112",
+   "iso": "MA",
+   "name": "Morocco",
+   "notes": "Royal gendarmerie – 177; Drugs & alcohol service – 113; Racial discrimination hotline – 114; Non-emergency disturbances – 110; General information – 160; National Freeway call center – 5050; Mobile phones – 112.",
+   "police": "19"
+  },
+  "MC": {
+   "ambulance": "112",
+   "fire": "112",
+   "general": "112",
+   "iso": "MC",
+   "name": "Monaco",
+   "notes": "Ambulance alternate: 18. Fire alternate: 18. 112 and 18 redirects to fire and rescue service which can also handle ambulance service",
+   "police": "17"
+  },
+  "MD": {
+   "ambulance": "112",
+   "fire": "112",
+   "general": "112",
+   "iso": "MD",
+   "name": "Moldova",
+   "notes": "",
+   "police": "112"
+  },
+  "ME": {
+   "ambulance": "124",
+   "fire": "123",
+   "general": null,
+   "iso": "ME",
+   "name": "Montenegro",
+   "notes": "Police alternate: 112. Ambulance alternate: 112. Fire alternate: 112. Emergency at sea: 129",
+   "police": "122"
+  },
+  "MF": {
+   "ambulance": "15",
+   "fire": "18",
+   "general": null,
+   "iso": "MF",
+   "name": "Saint Martin",
+   "notes": "",
+   "police": "17"
+  },
+  "MG": {
+   "ambulance": "124",
+   "fire": "118",
+   "general": null,
+   "iso": "MG",
+   "name": "Madagascar",
+   "notes": "Traffic police – 3600.",
+   "police": "117"
+  },
+  "MH": {
+   "ambulance": "911",
+   "fire": "911",
+   "general": "911",
+   "iso": "MH",
+   "name": "Marshall Islands",
+   "notes": "",
+   "police": "911"
+  },
+  "MK": {
+   "ambulance": "194",
+   "fire": "193",
+   "general": null,
+   "iso": "MK",
+   "name": "North Macedonia",
+   "notes": "Police alternate: 112. Ambulance alternate: 112. Fire alternate: 112. Police – 192; Ambulance – 194; Fire – 193.",
+   "police": "192"
+  },
+  "ML": {
+   "ambulance": "15",
+   "fire": "18",
+   "general": null,
+   "iso": "ML",
+   "name": "Mali",
+   "notes": "Ambulance – 112, Fire – 112.",
+   "police": "17"
+  },
+  "MM": {
+   "ambulance": "999",
+   "fire": "999",
+   "general": "999",
+   "iso": "MM",
+   "name": "Myanmar",
+   "notes": "Police – 199; Ambulance – 192; Fire – 191 (can also call for Natural disasters) Highway police – 1880; Relief – 067-340-4222 (Ministry hotline); International hotline – 122; COVID-19 hotline – 2019.",
+   "police": "999"
+  },
+  "MN": {
+   "ambulance": "105",
+   "fire": "105",
+   "general": "105",
+   "iso": "MN",
+   "name": "Mongolia",
+   "notes": "Police – 102; Ambulance – 103; Fire – 101.",
+   "police": "105"
+  },
+  "MO": {
+   "ambulance": "999",
+   "fire": "999",
+   "general": "999",
+   "iso": "MO",
+   "name": "Macau",
+   "notes": "From mobile phones – 110 or 112 (all redirects to 999); Judiciary Police – 993",
+   "police": "999"
+  },
+  "MP": {
+   "ambulance": "911",
+   "fire": "911",
+   "general": "911",
+   "iso": "MP",
+   "name": "Northern Mariana Islands",
+   "notes": "",
+   "police": "911"
+  },
+  "MQ": {
+   "ambulance": "112",
+   "fire": "112",
+   "general": "112",
+   "iso": "MQ",
+   "name": "Martinique",
+   "notes": "Police – 17; Ambulance – 15; Fire – 18.",
+   "police": "112"
+  },
+  "MR": {
+   "ambulance": "101",
+   "fire": "118",
+   "general": null,
+   "iso": "MR",
+   "name": "Mauritania",
+   "notes": "Gendarmerie – 116; Traffic police – 119.",
+   "police": "117"
+  },
+  "MS": {
+   "ambulance": "911",
+   "fire": "911",
+   "general": "911",
+   "iso": "MS",
+   "name": "Montserrat",
+   "notes": "All services alternate: 999.",
+   "police": "911"
+  },
+  "MT": {
+   "ambulance": "112",
+   "fire": "112",
+   "general": "112",
+   "iso": "MT",
+   "name": "Malta",
+   "notes": "",
+   "police": "112"
+  },
+  "MU": {
+   "ambulance": "114",
+   "fire": "115",
+   "general": null,
+   "iso": "MU",
+   "name": "Mauritius",
+   "notes": "Police – 999; Fire – 995.",
+   "police": "112"
+  },
+  "MV": {
+   "ambulance": "911",
+   "fire": "911",
+   "general": "911",
+   "iso": "MV",
+   "name": "Maldives",
+   "notes": "Police – 119; Ambulance – 100; Fire – 118; Coastguard – 191; For Natural Disasters – 115.",
+   "police": "911"
+  },
+  "MW": {
+   "ambulance": "998",
+   "fire": "999",
+   "general": null,
+   "iso": "MW",
+   "name": "Malawi",
+   "notes": "Police – 990.",
+   "police": "997"
+  },
+  "MX": {
+   "ambulance": "911",
+   "fire": "911",
+   "general": "911",
+   "iso": "MX",
+   "name": "Mexico",
+   "notes": "Emergency – 911; Anonymous complaint – 089.",
+   "police": "911"
+  },
+  "MY": {
+   "ambulance": "999",
+   "fire": "999",
+   "general": "999",
+   "iso": "MY",
+   "name": "Malaysia",
+   "notes": "From mobile phones – 112",
+   "police": "999"
+  },
+  "MZ": {
+   "ambulance": "117",
+   "fire": "198",
+   "general": null,
+   "iso": "MZ",
+   "name": "Mozambique",
+   "notes": "",
+   "police": "119"
+  },
+  "NA": {
+   "ambulance": null,
+   "fire": null,
+   "general": null,
+   "iso": "NA",
+   "name": "Namibia",
+   "notes": "Ambulance/Fire: depends on town/city.",
+   "police": "10111"
+  },
+  "NC": {
+   "ambulance": "112",
+   "fire": "112",
+   "general": "112",
+   "iso": "NC",
+   "name": "New Caledonia",
+   "notes": "Police – 17; Ambulance – 15; Fire – 18.",
+   "police": "112"
+  },
+  "NE": {
+   "ambulance": "15",
+   "fire": "18",
+   "general": null,
+   "iso": "NE",
+   "name": "Niger",
+   "notes": "",
+   "police": "17"
+  },
+  "NG": {
+   "ambulance": "112",
+   "fire": "112",
+   "general": "112",
+   "iso": "NG",
+   "name": "Nigeria",
+   "notes": "",
+   "police": "112"
+  },
+  "NI": {
+   "ambulance": "128",
+   "fire": "115",
+   "general": null,
+   "iso": "NI",
+   "name": "Nicaragua",
+   "notes": "Fire – 911.",
+   "police": "118"
+  },
+  "NL": {
+   "ambulance": "112",
+   "fire": "112",
+   "general": "112",
+   "iso": "NL",
+   "name": "Netherlands",
+   "notes": "Text phone – 0800 81 12; Non-emergency police – 0900 88 44 or 0343 578 844; Non-emergency police (text phone) – 0900 18 44; Suicide prevention – 0800-0113; Animal emergency – 144; Child abuse – 0900 123 12 30...",
+   "police": "112"
+  },
+  "NO": {
+   "ambulance": "113",
+   "fire": "110",
+   "general": "112",
+   "iso": "NO",
+   "name": "Norway",
+   "notes": "Emergency at sea: 120; non-emergency police: 02 800; child abuse and family violence: 116 111; text phone: 1412; nearest health care outside office hours: 116 117; 911 redirects to 112.",
+   "police": "112"
+  },
+  "NP": {
+   "ambulance": "102",
+   "fire": "101",
+   "general": "100",
+   "iso": "NP",
+   "name": "Nepal",
+   "notes": "Traffic police – 103; From mobile phones – 112.",
+   "police": "100"
+  },
+  "NR": {
+   "ambulance": "111",
+   "fire": "112",
+   "general": null,
+   "iso": "NR",
+   "name": "Nauru",
+   "notes": "",
+   "police": "110"
+  },
+  "NU": {
+   "ambulance": "+6834202",
+   "fire": "+6834133",
+   "general": null,
+   "iso": "NU",
+   "name": "Niue",
+   "notes": "",
+   "police": "+6834333"
+  },
+  "NZ": {
+   "ambulance": "111",
+   "fire": "111",
+   "general": "111",
+   "iso": "NZ",
+   "name": "New Zealand",
+   "notes": "SMS messages can be sent to 111 from registered mobile phones. Traffic – *555 (mobile phones only). 112 and 911 redirect to 111 on mobile phones. Dialing 000 and 999 plays a pre-recorded message advising the caller to call 111....",
+   "police": "111"
+  },
+  "OM": {
+   "ambulance": "9999",
+   "fire": "9999",
+   "general": "9999",
+   "iso": "OM",
+   "name": "Oman",
+   "notes": "From mobile phones – 112.",
+   "police": "9999"
+  },
+  "PA": {
+   "ambulance": "911",
+   "fire": "911",
+   "general": "911",
+   "iso": "PA",
+   "name": "Panama",
+   "notes": "Police – 104; Fire – 103.",
+   "police": "911"
+  },
+  "PE": {
+   "ambulance": "911",
+   "fire": "911",
+   "general": "105",
+   "iso": "PE",
+   "name": "Peru",
+   "notes": "Police – 105; Ambulance (SAMU) – 106; Fire – 116; Civil defense – 115; Domestic violence – 100.",
+   "police": "911"
+  },
+  "PF": {
+   "ambulance": "112",
+   "fire": "112",
+   "general": "112",
+   "iso": "PF",
+   "name": "French Polynesia",
+   "notes": "Police – 17; Ambulance – 15; Fire – 18.",
+   "police": "112"
+  },
+  "PG": {
+   "ambulance": "111",
+   "fire": "110",
+   "general": null,
+   "iso": "PG",
+   "name": "Papua New Guinea",
+   "notes": "",
+   "police": "112"
+  },
+  "PH": {
+   "ambulance": "911",
+   "fire": "911",
+   "general": "911",
+   "iso": "PH",
+   "name": "Philippines",
+   "notes": "Child abuse (Bantay Bata) – 163; Human trafficking – 1343; From mobile phones – 112",
+   "police": "911"
+  },
+  "PK": {
+   "ambulance": "115",
+   "fire": "16",
+   "general": "15",
+   "iso": "PK",
+   "name": "Pakistan",
+   "notes": "Ambulance alternate: 1122. Ambulance – 1122; Traffic police – 1915; Mobile phones – 112; Punjab Women's toll free helpline – 1043; Tourist police – 1422; National Highways & Motorway Police – 130; Child Protection & Welfare Bureau – 1121.",
+   "police": "15"
+  },
+  "PL": {
+   "ambulance": "999",
+   "fire": "998",
+   "general": "112",
+   "iso": "PL",
+   "name": "Poland",
+   "notes": "Police alternate: 112. Ambulance alternate: 112. Fire alternate: 112. Road help – 981, Elevator emergency – 982, Veterinary emergency – 983, Rescue on lakes and rivers – 984 or +48 601 100 100...",
+   "police": "997"
+  },
+  "PM": {
+   "ambulance": "112",
+   "fire": "112",
+   "general": "112",
+   "iso": "PM",
+   "name": "Saint Pierre and Miquelon",
+   "notes": "Police – 17; Ambulance – 15; Fire – 18.",
+   "police": "112"
+  },
+  "PR": {
+   "ambulance": "911",
+   "fire": "911",
+   "general": "911",
+   "iso": "PR",
+   "name": "Puerto Rico",
+   "notes": "",
+   "police": "911"
+  },
+  "PS": {
+   "ambulance": "101",
+   "fire": "102",
+   "general": null,
+   "iso": "PS",
+   "name": "Palestine",
+   "notes": "",
+   "police": "100"
+  },
+  "PT": {
+   "ambulance": "112",
+   "fire": "112",
+   "general": "112",
+   "iso": "PT",
+   "name": "Portugal",
+   "notes": "Forest fire – 117; Social emergency – 144. 911 redirects to 112 on telephones located at Lajes Air Station.",
+   "police": "112"
+  },
+  "PW": {
+   "ambulance": "911",
+   "fire": "911",
+   "general": "911",
+   "iso": "PW",
+   "name": "Palau",
+   "notes": "",
+   "police": "911"
+  },
+  "PY": {
+   "ambulance": "911",
+   "fire": "911",
+   "general": "911",
+   "iso": "PY",
+   "name": "Paraguay",
+   "notes": "Police – 912; Ambulance – 141; Fire – 132.; Rescue – 131",
+   "police": "911"
+  },
+  "QA": {
+   "ambulance": "999",
+   "fire": "999",
+   "general": "999",
+   "iso": "QA",
+   "name": "Qatar",
+   "notes": "Mobile phones – 112.",
+   "police": "999"
+  },
+  "RE": {
+   "ambulance": "112",
+   "fire": "112",
+   "general": "112",
+   "iso": "RE",
+   "name": "Réunion",
+   "notes": "Police – 17; Ambulance – 15; Fire – 18.",
+   "police": "112"
+  },
+  "RO": {
+   "ambulance": "112",
+   "fire": "112",
+   "general": "112",
+   "iso": "RO",
+   "name": "Romania",
+   "notes": "911 redirects to 112",
+   "police": "112"
+  },
+  "RS": {
+   "ambulance": "194",
+   "fire": "193",
+   "general": null,
+   "iso": "RS",
+   "name": "Serbia",
+   "notes": "Police alternate: 112. Civil protection – 1985; 112 redirects to 192. It is possible to dial 112 and get direct connection with the emergency services by pressing 1 for police, 2 for ambulance and 3 for fire on Vip operator mobile phones.",
+   "police": "192"
+  },
+  "RU": {
+   "ambulance": "103",
+   "fire": "101",
+   "general": "112",
+   "iso": "RU",
+   "name": "Russia",
+   "notes": "Police alternate: 112. Ambulance alternate: 112. Fire alternate: 112. Gas emergency – 104; 112 came into effect (for any emergency) in 2013",
+   "police": "102"
+  },
+  "RW": {
+   "ambulance": "912",
+   "fire": "112",
+   "general": "112",
+   "iso": "RW",
+   "name": "Rwanda",
+   "notes": "Traffic police – 113.",
+   "police": "112"
+  },
+  "SA": {
+   "ambulance": "997",
+   "fire": "998",
+   "general": "911",
+   "iso": "SA",
+   "name": "Saudi Arabia",
+   "notes": "Police – 999; Ambulance – 997; Fire – 998; Traffic police – 993.",
+   "police": "999"
+  },
+  "SB": {
+   "ambulance": "911",
+   "fire": "911",
+   "general": "911",
+   "iso": "SB",
+   "name": "Solomon Islands",
+   "notes": "All services alternate: 999. Police – 999; Ambulance – 111; Fire – 988. In cities, local numbers exist which connect more quickly than either 911 or 999.",
+   "police": "911"
+  },
+  "SC": {
+   "ambulance": "112",
+   "fire": "112",
+   "general": "112",
+   "iso": "SC",
+   "name": "Seychelles",
+   "notes": "All services alternate: 999. Police – 133; Ambulance – 151.",
+   "police": "112"
+  },
+  "SD": {
+   "ambulance": "999",
+   "fire": "999",
+   "general": "999",
+   "iso": "SD",
+   "name": "Sudan",
+   "notes": "Traffic police – 777 777.",
+   "police": "999"
+  },
+  "SE": {
+   "ambulance": "112",
+   "fire": "112",
+   "general": "112",
+   "iso": "SE",
+   "name": "Sweden",
+   "notes": "Non-emergency police – 114 14; Non-emergency medical advice – 1177; Information during accidents and crises – 113 13.",
+   "police": "112"
+  },
+  "SG": {
+   "ambulance": "995",
+   "fire": "995",
+   "general": "112",
+   "iso": "SG",
+   "name": "Singapore",
+   "notes": "Mobile phones – 112 or 911; Non-emergency ambulance – 1777; Police hotline – 1800 255 0000; Traffic police – 6547 0000.",
+   "police": "999"
+  },
+  "SH": {
+   "ambulance": "999",
+   "fire": "999",
+   "general": "999",
+   "iso": "SH",
+   "name": "Saint Helena, Ascension and Tristan da Cunha",
+   "notes": "Tristan da Cunha: ambulance 911.",
+   "police": "999"
+  },
+  "SI": {
+   "ambulance": "112",
+   "fire": "112",
+   "general": "112",
+   "iso": "SI",
+   "name": "Slovenia",
+   "notes": "Police – 113; Road help – 1987; Emergency at sea – 080 18 00.",
+   "police": "112"
+  },
+  "SK": {
+   "ambulance": "112",
+   "fire": "112",
+   "general": "112",
+   "iso": "SK",
+   "name": "Slovakia",
+   "notes": "Police alternate: 158. Ambulance alternate: 155. Fire alternate: 150. Municipal police – 159.",
+   "police": "112"
+  },
+  "SL": {
+   "ambulance": "999",
+   "fire": "999",
+   "general": "999",
+   "iso": "SL",
+   "name": "Sierra Leone",
+   "notes": "",
+   "police": "019"
+  },
+  "SM": {
+   "ambulance": "118",
+   "fire": "115",
+   "general": null,
+   "iso": "SM",
+   "name": "San Marino",
+   "notes": "Police alternate: 113. 112, 113 and 115 reach the Interforce Operations Centre.",
+   "police": "112"
+  },
+  "SN": {
+   "ambulance": "18",
+   "fire": "1515",
+   "general": null,
+   "iso": "SN",
+   "name": "Senegal",
+   "notes": "",
+   "police": "17"
+  },
+  "SO": {
+   "ambulance": "999",
+   "fire": "555",
+   "general": null,
+   "iso": "SO",
+   "name": "Somalia",
+   "notes": "Traffic police – 777.",
+   "police": "888"
+  },
+  "SR": {
+   "ambulance": "115",
+   "fire": "115",
+   "general": "115",
+   "iso": "SR",
+   "name": "Suriname",
+   "notes": "Police – 115; Ambulance – 113; Fire – 110.",
+   "police": "115"
+  },
+  "SS": {
+   "ambulance": "999",
+   "fire": "999",
+   "general": "999",
+   "iso": "SS",
+   "name": "South Sudan",
+   "notes": "",
+   "police": "999"
+  },
+  "ST": {
+   "ambulance": "112",
+   "fire": "112",
+   "general": "112",
+   "iso": "ST",
+   "name": "Sao Tome and Principe",
+   "notes": "",
+   "police": "112"
+  },
+  "SV": {
+   "ambulance": "132",
+   "fire": "913",
+   "general": null,
+   "iso": "SV",
+   "name": "El Salvador",
+   "notes": "",
+   "police": "911"
+  },
+  "SX": {
+   "ambulance": "912",
+   "fire": "919",
+   "general": null,
+   "iso": "SX",
+   "name": "Sint Maarten",
+   "notes": "",
+   "police": "911"
+  },
+  "SY": {
+   "ambulance": "110",
+   "fire": "113",
+   "general": null,
+   "iso": "SY",
+   "name": "Syria",
+   "notes": "Traffic police – 115.",
+   "police": "112"
+  },
+  "SZ": {
+   "ambulance": "977",
+   "fire": "933",
+   "general": null,
+   "iso": "SZ",
+   "name": "Eswatini",
+   "notes": "",
+   "police": "999"
+  },
+  "TC": {
+   "ambulance": "911",
+   "fire": "911",
+   "general": "911",
+   "iso": "TC",
+   "name": "Turks and Caicos Islands",
+   "notes": "",
+   "police": "911"
+  },
+  "TD": {
+   "ambulance": "22514242",
+   "fire": "18",
+   "general": null,
+   "iso": "TD",
+   "name": "Chad",
+   "notes": "Ambulance – 2251-1237.",
+   "police": "17"
+  },
+  "TG": {
+   "ambulance": "8200",
+   "fire": "118",
+   "general": null,
+   "iso": "TG",
+   "name": "Togo",
+   "notes": "",
+   "police": "117"
+  },
+  "TH": {
+   "ambulance": "1669",
+   "fire": "199",
+   "general": "112",
+   "iso": "TH",
+   "name": "Thailand",
+   "notes": "It's been proposed that the number 1669 be discontinued and be replaced with 191. However, as of 2026, the number 191, 199 and 1669 remain available....",
+   "police": "191"
+  },
+  "TJ": {
+   "ambulance": "112",
+   "fire": "112",
+   "general": "112",
+   "iso": "TJ",
+   "name": "Tajikistan",
+   "notes": "Police – 102; Ambulance – 103; Fire – 101; Gas leaks – 104.",
+   "police": "112"
+  },
+  "TK": {
+   "ambulance": "+6902112",
+   "fire": null,
+   "general": null,
+   "iso": "TK",
+   "name": "Tokelau",
+   "notes": "",
+   "police": "+6902116"
+  },
+  "TL": {
+   "ambulance": "112",
+   "fire": "112",
+   "general": "112",
+   "iso": "TL",
+   "name": "Timor-Leste",
+   "notes": "",
+   "police": "112"
+  },
+  "TM": {
+   "ambulance": "03",
+   "fire": "01",
+   "general": null,
+   "iso": "TM",
+   "name": "Turkmenistan",
+   "notes": "For mobile phones: Fire - 001; Police - 002; Ambulance - 003; Gas leak - 004. For gas leaks - 04 on landline.",
+   "police": "02"
+  },
+  "TN": {
+   "ambulance": "190",
+   "fire": "198",
+   "general": null,
+   "iso": "TN",
+   "name": "Tunisia",
+   "notes": "National guard – 193.",
+   "police": "197"
+  },
+  "TO": {
+   "ambulance": "911",
+   "fire": "911",
+   "general": "911",
+   "iso": "TO",
+   "name": "Tonga",
+   "notes": "Police – 922; Ambulance – 933; Fire – 999.",
+   "police": "911"
+  },
+  "TR": {
+   "ambulance": "112",
+   "fire": "112",
+   "general": "112",
+   "iso": "TR",
+   "name": "Turkey",
+   "notes": "Police alternate: 911, 153. Ambulance/Fire alternate: 911. Municipal police – 153 (112 connects to national police); Gas emergency and outages – 187; Electricity emergency and outages – 186; Water emergency and outages – 185...",
+   "police": "112"
+  },
+  "TT": {
+   "ambulance": "811",
+   "fire": "990",
+   "general": null,
+   "iso": "TT",
+   "name": "Trinidad and Tobago",
+   "notes": "Police alternate: 911.",
+   "police": "999"
+  },
+  "TV": {
+   "ambulance": "911",
+   "fire": "911",
+   "general": "911",
+   "iso": "TV",
+   "name": "Tuvalu",
+   "notes": "Police – 911; Ambulance – 999; Fire – 000.",
+   "police": "911"
+  },
+  "TW": {
+   "ambulance": "119",
+   "fire": "119",
+   "general": null,
+   "iso": "TW",
+   "name": "Taiwan",
+   "notes": "112 on mobile phones – after call is connected 0 redirects 110 and 9 redirects 119; Domestic violence – 113; Coast guard – 118",
+   "police": "110"
+  },
+  "TZ": {
+   "ambulance": "114",
+   "fire": "115",
+   "general": "112",
+   "iso": "TZ",
+   "name": "Tanzania",
+   "notes": "Police – 999; Health call centre - 199",
+   "police": "112"
+  },
+  "UA": {
+   "ambulance": "103",
+   "fire": "101",
+   "general": "112",
+   "iso": "UA",
+   "name": "Ukraine",
+   "notes": "General emergencies – 112; Gas emergency – 104.",
+   "police": "102"
+  },
+  "UG": {
+   "ambulance": "911",
+   "fire": "112",
+   "general": "112",
+   "iso": "UG",
+   "name": "Uganda",
+   "notes": "Police – 999; Fire – 999.",
+   "police": "112"
+  },
+  "US": {
+   "ambulance": "911",
+   "fire": "911",
+   "general": "911",
+   "iso": "US",
+   "name": "United States",
+   "notes": "Suicide hotline – 988; Text-to-9-1-1 is available in many regions and will respond with an error anywhere else. Various services available through regional or national N11 codes (e.g.: 211 and 311 for non-emergency police or city services)...",
+   "police": "911"
+  },
+  "UY": {
+   "ambulance": "911",
+   "fire": "911",
+   "general": "911",
+   "iso": "UY",
+   "name": "Uruguay",
+   "notes": "Police – 109; Ambulance – 105; Fire – 104.",
+   "police": "911"
+  },
+  "UZ": {
+   "ambulance": "103",
+   "fire": "101",
+   "general": null,
+   "iso": "UZ",
+   "name": "Uzbekistan",
+   "notes": "Emergency service – 1050; Gas leaks – 104; Housing and communal services – 1055. 112 is being introduced as the number for all emergencies on 1 January 2024 in Uzbekistan by the end of 2024.",
+   "police": "102"
+  },
+  "VA": {
+   "ambulance": "112",
+   "fire": "112",
+   "general": "112",
+   "iso": "VA",
+   "name": "Vatican City",
+   "notes": "Emergency calls are handled by the Gendarmerie Corps. The Fire Brigade can also be reached at +39 06 698112.",
+   "police": "112"
+  },
+  "VC": {
+   "ambulance": "999",
+   "fire": "999",
+   "general": "999",
+   "iso": "VC",
+   "name": "Saint Vincent and the Grenadines",
+   "notes": "All services alternate: 911, 112.",
+   "police": "999"
+  },
+  "VE": {
+   "ambulance": "911",
+   "fire": "911",
+   "general": "911",
+   "iso": "VE",
+   "name": "Venezuela",
+   "notes": "All services alternate: 171.",
+   "police": "911"
+  },
+  "VG": {
+   "ambulance": "911",
+   "fire": "911",
+   "general": "911",
+   "iso": "VG",
+   "name": "British Virgin Islands",
+   "notes": "All services alternate: 999. Police – 311.",
+   "police": "911"
+  },
+  "VI": {
+   "ambulance": "911",
+   "fire": "911",
+   "general": "911",
+   "iso": "VI",
+   "name": "United States Virgin Islands",
+   "notes": "",
+   "police": "911"
+  },
+  "VN": {
+   "ambulance": "115",
+   "fire": "114",
+   "general": null,
+   "iso": "VN",
+   "name": "Vietnam",
+   "notes": "111 – Child abuse, 112 – Livesaving services",
+   "police": "113"
+  },
+  "VU": {
+   "ambulance": "112",
+   "fire": "113",
+   "general": null,
+   "iso": "VU",
+   "name": "Vanuatu",
+   "notes": "",
+   "police": "111"
+  },
+  "WF": {
+   "ambulance": "15",
+   "fire": "15",
+   "general": "15",
+   "iso": "WF",
+   "name": "Wallis and Futuna",
+   "notes": "",
+   "police": "15"
+  },
+  "WS": {
+   "ambulance": "999",
+   "fire": "999",
+   "general": "999",
+   "iso": "WS",
+   "name": "Samoa",
+   "notes": "Police – 995; Ambulance – 996; Fire – 994.",
+   "police": "999"
+  },
+  "XK": {
+   "ambulance": "194",
+   "fire": "193",
+   "general": null,
+   "iso": "XK",
+   "name": "Kosovo",
+   "notes": "",
+   "police": "192"
+  },
+  "YE": {
+   "ambulance": "191",
+   "fire": "191",
+   "general": null,
+   "iso": "YE",
+   "name": "Yemen",
+   "notes": "",
+   "police": "194"
+  },
+  "YT": {
+   "ambulance": "112",
+   "fire": "112",
+   "general": "112",
+   "iso": "YT",
+   "name": "Mayotte",
+   "notes": "Police – 17; Ambulance – 15; Fire – 18.",
+   "police": "112"
+  },
+  "ZA": {
+   "ambulance": "10177",
+   "fire": "10177",
+   "general": "112",
+   "iso": "ZA",
+   "name": "South Africa",
+   "notes": "Emergency in Cape Town – 107; Mobile phones – 112.",
+   "police": "10111"
+  },
+  "ZM": {
+   "ambulance": "999",
+   "fire": "999",
+   "general": "999",
+   "iso": "ZM",
+   "name": "Zambia",
+   "notes": "Police – 911; Ambulance – 992; Fire – 993; Mobile phones – 112.",
+   "police": "999"
+  },
+  "ZW": {
+   "ambulance": "999",
+   "fire": "999",
+   "general": "999",
+   "iso": "ZW",
+   "name": "Zimbabwe",
+   "notes": "Police – 995; Ambulance – 994; Fire – 993; Mobile phones – 112.",
+   "police": "999"
+  }
+ },
+ "generated_utc": "2026-09-11T20:27:31Z",
+ "schema": 1,
+ "source": "https://en.wikipedia.org/wiki/List_of_emergency_telephone_numbers"
+}
